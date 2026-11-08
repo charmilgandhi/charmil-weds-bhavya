@@ -16,7 +16,7 @@ export const site = {
   meta: {
     title: "Charmil & Bhavya — We're getting married",
     description:
-      "Join Charmil and Bhavya in Ravatbhata on 24 January 2027. Ceremony, celebrations, and all the details.",
+      "Join Charmil and Bhavya in Vadodara on 28 January 2027. Ceremony, celebrations, and all the details.",
   },
   couple: {
     partnerA: "Charmil",
